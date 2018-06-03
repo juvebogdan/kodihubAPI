@@ -20,8 +20,8 @@ class Welcome extends CI_Controller {
 	 */
 
 	public function curl() {
-	    $username = 'kodihub';
-	    $password = 'fisstops';
+	    $username = '';
+	    $password = '';
 	     
 	    // Alternative JSON version
 	    // $url = 'http://twitter.com/statuses/update.json';
@@ -47,8 +47,8 @@ class Welcome extends CI_Controller {
 	}
 
 	public function curledit() {
-	    // $username = 'appy';
-	    // $password = 'fisstops';
+	    // $username = '';
+	    // $password = '';
 	     
 	    // // Alternative JSON version
 	    // // $url = 'http://twitter.com/statuses/update.json';
